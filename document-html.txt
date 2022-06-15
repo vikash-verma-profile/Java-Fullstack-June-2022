@@ -14,4 +14,13 @@
 
 
 -CSS
+
+write in tags as an attribute
+write in style tag on the page
+write in a separate file and then refer that file in html page
+
+use tag
+use class
+use id
+
 -Javascript
